@@ -29,6 +29,7 @@ h1{
     font-size: 64px;
     font-weight: 700;
     font-family: "Play", serif;
+    color: var(--color-primary-light-blue);
 }
 ul{
     list-style-type: none;
